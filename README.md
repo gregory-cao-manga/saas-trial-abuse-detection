@@ -27,7 +27,7 @@ The repository includes:
 
 View the interactive dashboard:
 
-[View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/gregory.jude.manga/viz/SaaSTrialAbuseDetection/Dashboard1#1)
+[Dashboard Preview](https://public.tableau.com/app/profile/gregory.jude.manga/viz/SaaSTrialAbuseDetection/Dashboard1#1)
 
 ## Important Note
 
