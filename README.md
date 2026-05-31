@@ -2,7 +2,9 @@
 
 ## Overview
 
-This case study analyzes potential abuse of SaaS free-trial accounts through behavioral risk scoring and exploratory analytics.
+This case-study project explores potential SaaS free-trial abuse using behavioral risk scoring, data cleaning, exploratory analysis, and dashboard reporting.
+
+The objective was to identify suspicious user behavior patterns and prioritize accounts for further review while minimizing false positives.
 
 ## Tools Used
 
@@ -39,7 +41,7 @@ View the interactive dashboard:
 
 [Dashboard Preview](https://public.tableau.com/app/profile/gregory.jude.manga/viz/SaaSTrialAbuseDetection/Dashboard1#1)
 
-## Important Note
+## Dataset Disclaimer
 
 This project was completed using a simulated assessment dataset.
 
