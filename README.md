@@ -41,6 +41,13 @@ View the interactive dashboard:
 
 [Dashboard Preview](https://public.tableau.com/app/profile/gregory.jude.manga/viz/SaaSTrialAbuseDetection/Dashboard1#1)
 
+## Key Findings
+- High-risk users represented the largest concentration of suspicious activity.
+- High-risk users showed substantially higher platform usage.
+- High-risk users converted less frequently than medium- and low-risk users.
+- Public email domains were more common among high-risk accounts.
+- Shared device, IP, and payment patterns indicated potential multi-account activity.
+
 ## Dataset Disclaimer
 
 This project was completed using a simulated assessment dataset.
