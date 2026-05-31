@@ -12,7 +12,7 @@ This case study analyzes potential abuse of SaaS free-trial accounts through beh
 
 ## Dashboard Preview
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](dashboard/dashboard_preview.png)
 
 ## Documentation
 
@@ -22,6 +22,16 @@ The repository includes:
 - Data Dictionary
 - Data Cleaning Log
 - Analysis Workflow
+
+## Project Workflow
+
+Raw Data
+- Data Cleaning
+- Data Validation
+- Power Query Modeling
+- Risk Scoring
+- Exploratory Analysis
+- Tableau Dashboard
 
 ## Tableau Dashboard
 
